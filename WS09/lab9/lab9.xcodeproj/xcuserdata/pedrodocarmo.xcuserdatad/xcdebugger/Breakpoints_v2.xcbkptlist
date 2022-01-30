@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D65B1A1D-358C-41AC-845E-86D02F058C7B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76BBC3D3-9688-43A4-9ADB-1753C395418B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "NumbersBox()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8BDDA0E-5D76-4214-A9EE-A6CCF276FBFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8BDDA0E-5D76-4214-A9EE-A6CCF276FBFC - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "F8BDDA0E-5D76-4214-A9EE-A6CCF276FBFC - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA4C7CFC-1CE2-479B-BC13-C291EF81C0D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA4C7CFC-1CE2-479B-BC13-C291EF81C0D2 - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "FA4C7CFC-1CE2-479B-BC13-C291EF81C0D2 - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "768341D4-AA59-4B54-AEC2-2AB6A92668FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "768341D4-AA59-4B54-AEC2-2AB6A92668FE - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "768341D4-AA59-4B54-AEC2-2AB6A92668FE - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BDB7FCF-FE9E-45AA-8384-388190420664"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5BDB7FCF-FE9E-45AA-8384-388190420664 - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "5BDB7FCF-FE9E-45AA-8384-388190420664 - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B8B5919-9D4A-4E64-9E50-4E809549ADF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B8B5919-9D4A-4E64-9E50-4E809549ADF4 - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "2B8B5919-9D4A-4E64-9E50-4E809549ADF4 - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A28AEE4-C3AE-4EEB-B7EF-636C4B14BDE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A28AEE4-C3AE-4EEB-B7EF-636C4B14BDE6 - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "245">
+               </Location>
+               <Location
+                  uuid = "5A28AEE4-C3AE-4EEB-B7EF-636C4B14BDE6 - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1990D8E-BC0E-4D7C-9EEF-B188DC4386BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../NumbersBox.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "operator+=(num)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1990D8E-BC0E-4D7C-9EEF-B188DC4386BF - 60c564d7e63357f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;int&gt;::operator+=(int)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  uuid = "F1990D8E-BC0E-4D7C-9EEF-B188DC4386BF - ed9c800c478263da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdds::NumbersBox&lt;double&gt;::operator+=(double)"
+                  moduleName = "lab9"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodocarmo/Documents/SENECA/2semestre/OOP-Workshops/WS09/NumbersBox.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "295">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
